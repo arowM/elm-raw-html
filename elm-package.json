@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "An unsafe and unrecommended module to render read-only raw html in Elm view.",
     "repository": "https://github.com/arowM/elm-raw-html.git",
     "license": "MIT",
