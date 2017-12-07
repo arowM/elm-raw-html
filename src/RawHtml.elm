@@ -7,14 +7,14 @@ module RawHtml
 
 {-| An unsafe and unrecommended module to render read-only raw html in Elm view.
 
-⚠⚠⚠⚠⚠⚠⚠⚠WARNING⚠⚠⚠⚠⚠⚠⚠⚠
+⚠⚠⚠⚠⚠⚠⚠⚠🐐WARNING🐐⚠⚠⚠⚠⚠⚠⚠⚠
 
 This module is dangerous, so you should use it carefully.
 
 * this module could inject XSS vulnerability in my app
 * this module could create an element that Elm cannot handle
 
-⚠⚠⚠⚠⚠⚠⚠⚠WARNING⚠⚠⚠⚠⚠⚠⚠⚠
+⚠⚠⚠⚠⚠⚠⚠⚠🐐WARNING🐐⚠⚠⚠⚠⚠⚠⚠⚠
 
 # Types
 
